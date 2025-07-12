@@ -1,6 +1,6 @@
-# Hi, I’m Tony Coppola! 👋
+# Hi, I’m Tony! 👋
 
-Welcome to my personal GitHub profile — where creativity, curiosity, and technology collide.
+Welcome to my personal GitHub profile.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my personal GitHub profile — where creativity, curiosity, and techn
 
 - **Technologist & Sr. Infrastructure Engineer** @ Warner Bros. Discovery
 - 🛠️ Cloud & DevOps Enthusiast | AWS • Python • Terraform • Linux
-- 🌱 Always learning — currently obsessed with GenAI, LLMs, and how they’re built, trained, and deployed
+- 🌱 Always learning — currently experimenting with GenAI
 - ⚡ On a mission: “AI Enablement” at work — helping teams use AI in real-world projects
 
 ---
@@ -26,7 +26,7 @@ Welcome to my personal GitHub profile — where creativity, curiosity, and techn
 
 - [LinkedIn](https://www.linkedin.com/in/dreslan/)
 - [Twitter/X](https://twitter.com/tonybyte)
-- [Personal Website](https://tonycoppola.net)
+- [Personal Website](https://dreslan.com)
 
 > **Note:** This is my personal GitHub. Opinions here are my own and not those of Warner Bros. Discovery.  
 > For work projects, find me at [acoppolawb](https://github.com/acoppolawb).
