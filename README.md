@@ -1,4 +1,4 @@
-# Hi, I’m Tony! 👋
+# Hi, I am Dreslan! 👋
 
 Welcome to my personal GitHub profile.
 
@@ -6,7 +6,7 @@ Welcome to my personal GitHub profile.
 
 ## 👨‍💻 About Me
 
-- **Technologist & Sr. Infrastructure Engineer** @ Warner Bros. Discovery
+- **Technologist & Sr. Infrastructure Engineer** @ ***
 - 🛠️ Cloud & DevOps Enthusiast | AWS • Python • Terraform • Linux
 - 🌱 Always learning — currently experimenting with GenAI
 - ⚡ On a mission: “AI Enablement” at work — helping teams use AI in real-world projects
@@ -24,22 +24,6 @@ Welcome to my personal GitHub profile.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dreslan/)
-- [Twitter/X](https://twitter.com/tonybyte)
-- [Personal Website](https://dreslan.com)
+- [Website](https://dreslan.com)
 
-> **Note:** This is my personal GitHub. Opinions here are my own and not those of Warner Bros. Discovery.  
-> For work projects, find me at [acoppolawb](https://github.com/acoppolawb).
-
----
-
-## 🚀 What’s Next?
-
-- 🧑‍🔬 Researching GenAI & LLMs from both a scientist and infra engineer’s perspective
-- 🕹️ Experimenting with new tech (and occasionally breaking it in fun ways)
-- 🤝 Always open to connect, share, and learn together!
-
----
-
-Thanks for stopping by!  
-*— Tony / dreslan*
+> **Note:** This is my personal GitHub. Opinions here are my own.
